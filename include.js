@@ -6008,7 +6008,15 @@ let cards = [
     imageLink: './Art/dmwspace/magic.gif',
     author: 'Dean',
     githubLink: 'https://github.com/dmwspace'
+  },
+  {
+    artName: 'My lovely art',
+    pageLink: './Art/jamesburns22/index.html',
+    imageLink: './Art/jamesburns22/artjamesburns22.gif',
+    author: 'James',
+    githubLink: 'https://github.com/jamesburns22'
   }
+
 ];
 
 // +--------------------------------------------------------------------------------+
